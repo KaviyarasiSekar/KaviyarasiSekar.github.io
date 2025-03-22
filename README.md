@@ -1,1 +1,57 @@
-# KaviyarasiSekar.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kaviyarasi Sekar | Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Kaviyarasi Sekar</h1>
+        <p>Senior Software Engineer & Data Science Enthusiast</p>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#projects">Projects</a>
+            <a href="#resume">Resume</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Experienced Senior Software Engineer with expertise in Data Integration, Analytics, and Machine Learning. MSc in Data Science from Coventry University.</p>
+    </section>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>Real-Time Drowsiness Detection</strong> – Vision Transformers & ML for road safety.</li>
+            <li><strong>Big Data Analytics</strong> – PySpark analysis for medical decision-making.</li>
+            <li><strong>ETL Analytics Platform</strong> – Data integration for real estate analytics.</li>
+        </ul>
+    </section>
+    
+    <section id="resume">
+        <h2>Resume</h2>
+        <p><a href="KAVIYARASI_SEKAR_CV.pdf" download>Download My CV (PDF)</a></p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:kaviyarasi85@gmail.com">kaviyarasi85@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/kaviyarasi-sekar-19903912a">View Profile</a></p>
+        <p>GitHub: <a href="https://github.com/KaviyarasiSekar">GitHub Portfolio</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 Kaviyarasi Sekar</p>
+    </footer>
+
+    <!-- LICENSE -->
+    <section id="license">
+        <h2>License</h2>
+        <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+    </section>
+</body>
+</html>
