@@ -11,9 +11,14 @@ body {
   line-height: 1.6;
 }
 
-h1, h2 {
+h1 {
+  color: #ff6600; 
+}
+
+h2 {
   color: #003366;
 }
+
 
 a {
   color: #0066cc;
