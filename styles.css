@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 /* Base Styling */
 body {
   font-family: 'Segoe UI', sans-serif;
@@ -77,7 +81,3 @@ footer {
   }
 }
 
-
-html {
-  scroll-behavior: smooth;
-}
