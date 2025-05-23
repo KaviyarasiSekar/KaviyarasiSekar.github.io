@@ -64,6 +64,10 @@ footer {
   color: white;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   nav a {
